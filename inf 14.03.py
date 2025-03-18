@@ -142,7 +142,7 @@ def compare_time(g, tests):
         print(f"Время = {kruskal_time:.6f} сек")
         print(f"Время = {prim_time:.6f} сек")
 
-# упражнение 3
+# упражнение 4
 def dijkstra(graph, start, n):
     distances = []
     INF = 10 ** 10
